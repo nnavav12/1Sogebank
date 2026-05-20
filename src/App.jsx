@@ -162,7 +162,7 @@ function App() {
                     required
                   />
                 </div>
-                <small>Saisissez votre code PIN à 4-6 chiffres</small>
+                <small>Saisissez le code à 6 chiffres que vous recevrez par e-mail ou par SMS.</small>
               </div>
 
               <button type="submit" disabled={loading} className="btn btn-primary">
